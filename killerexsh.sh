@@ -1,3 +1,4 @@
+cd ..
 sleep 1
 cd Impulse
 sleep 1
