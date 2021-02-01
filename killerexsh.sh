@@ -1,4 +1,3 @@
-nano sh
 !#/bin/sh
 cd ..
 sleep 1
