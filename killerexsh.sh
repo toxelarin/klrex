@@ -1,4 +1,3 @@
-#!/bin/bash
 command cd ..
 command sleep 1
 command cd Impulse
